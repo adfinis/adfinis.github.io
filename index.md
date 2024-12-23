@@ -21,6 +21,6 @@ Found a typo? Or something isn't quite clear? Please feel free to open an issue 
 
 This repository serves as an overview to all our available documentations.
 
-## Licence
+## License
 
-The licence of the respective repos applies to their docs as well.
+The source code of this page is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General Public License as published by the Free Software Foundation, version 3 of the license.  
