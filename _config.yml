@@ -25,6 +25,6 @@ footer:
   linkedin:
     href: "https://www.linkedin.com/company/adfinis-com"
   github:
-    href: "https://github.com/adfinis/helm-charts"
+    href: "https://github.com/adfinis/"
 
 remote_theme: adfinis/jekyll-theme-adfinis-ng
