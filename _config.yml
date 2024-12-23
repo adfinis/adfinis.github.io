@@ -1,0 +1,30 @@
+---
+locale: "en-US"
+title: adfinis/docs
+email: support@adfinis.com
+description: >-
+  📚️ Docs for Adfinis projects
+baseurl: ""
+url: "https://docs.adfinis.com"
+
+header:
+  button:
+    title: "Contact"
+    href: "https://adfinis.com/en/contact/"
+
+hero:
+  image_url: "https://adfinis.com/wp-content/uploads/sites/9/2021/05/PeopleatAdfinis_Smaller-1536x1024.jpeg"
+
+footer:
+  blog:
+    name: "Blog"
+    href: "https://adfinis.com/blog/"
+  privacy:
+    name: "Privacy policy"
+    href: "https://adfinis.com/en/privacypolicy/"
+  linkedin:
+    href: "https://www.linkedin.com/company/adfinis-com"
+  github:
+    href: "https://github.com/adfinis/helm-charts"
+
+remote_theme: adfinis/jekyll-theme-adfinis-ng
