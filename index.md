@@ -12,6 +12,7 @@ The following documentations are available:
 | [ember-validated-form](https://docs.adfinis.com/ember-validated-form/) | https://github.com/adfinis/ember-validated-form |  Easily create forms with client side validations. |
 | [Helm Charts](https://charts.adfinis.com/) | https://github.com/adfinis/helm-charts/ |  📈 Helm charts from Adfinis. |
 | [Pyaptly](https://docs.adfinis.com/pyaptly/) | https://github.com/adfinis/pyaptly/ | Automates the creation and managment of aptly mirrors and snapshots based on yml input files. |
+| [Timed](https://timed.dev) | https://github.com/adfinis/timed | An Open Source Time Tracking App, created by Adfinis |
 
 ## Contributing
 
